@@ -1,6 +1,6 @@
 ## math-bangla-to-english-name
 গুণনীয়ক  = Factor
-মৌলিক সংখ্যা = Price Number
+মৌলিক সংখ্যা = Prime Number
 যৌগিক সংখ্যা = Composite Number
 সহ'মৌলিক = Coprime Integers
 
