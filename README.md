@@ -1,4 +1,4 @@
-## math-bangla-to-english-name
+## Math English To Bangla Name
 - গুণনীয়ক  = Factor
 - মৌলিক সংখ্যা = Prime Number
 - যৌগিক সংখ্যা = Composite Number
